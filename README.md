@@ -32,3 +32,10 @@ func main() {
 	}
 	_ = me
 }
+
+ <p align="center">
+    <a href="https://www.linkedin.com/in/ysahbaz" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
+    <a href="https://www.facebook.com/yavuzsahbaz" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dephraiim" height="20" width="20" /></a>
+  </p>
